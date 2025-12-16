@@ -1,1 +1,1 @@
-We serve our customers with leading video technology, and are committed to simplifying IoT video development. Relying on new technologies such as HTML5 WebRTC, we aim to simplify video playback across all platforms.
+We serve our customers with leading video technology, and are committed to simplifying IoT video development. Relying on new technologies such as HTML5 WebRTC, we aim to simplify video storage and playback across all platforms.
